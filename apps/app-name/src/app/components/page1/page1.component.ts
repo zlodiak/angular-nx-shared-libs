@@ -1,8 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import {
-  EmployeesService,
-  employeeType,
-} from '../../services/employees.service';
+import { EmployeesService } from '../../services/employees.service';
+import { employeeType } from '@first/data';
 
 @Component({
   selector: 'first-page1',

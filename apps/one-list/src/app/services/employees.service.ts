@@ -1,10 +1,6 @@
 import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
-
-export type employeeType = {
-  name: string;
-  pay: number;
-};
+import { employeeType } from '@first/data';
 
 @Injectable({
   providedIn: 'root',
