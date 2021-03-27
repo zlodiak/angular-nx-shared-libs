@@ -3,5 +3,6 @@ module.exports = {
     '<rootDir>/apps/app-name',
     '<rootDir>/libs/data',
     '<rootDir>/apps/one-list',
+    '<rootDir>/libs/ui',
   ],
 };

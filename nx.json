@@ -20,6 +20,7 @@
     "app-name-e2e": { "tags": [], "implicitDependencies": ["app-name"] },
     "data": { "tags": [] },
     "one-list": { "tags": [] },
-    "one-list-e2e": { "tags": [], "implicitDependencies": ["one-list"] }
+    "one-list-e2e": { "tags": [], "implicitDependencies": ["one-list"] },
+    "ui": { "tags": [] }
   }
 }
