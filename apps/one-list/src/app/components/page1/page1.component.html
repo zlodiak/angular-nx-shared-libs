@@ -1,0 +1,7 @@
+<input type="text" placeholder="name" #name />
+<input type="number" placeholder="pay" #pay />
+<button (click)="create({ name: name.value, pay: pay.value })">create</button>
+
+<hr />
+
+<pre>{{ employees | json }}</pre>
